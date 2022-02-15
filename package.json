@@ -1,0 +1,32 @@
+{
+  "name": "@shiiyan/my-first-typescript-library",
+  "version": "1.0.0",
+  "description": "Can say hello and goodbye",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiiyan/my-first-typescript-library.git"
+  },
+  "keywords": [
+    "typescript",
+    "library",
+    "console",
+    "log"
+  ],
+  "author": "shiiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiiyan/my-first-typescript-library/issues"
+  },
+  "homepage": "https://github.com/shiiyan/my-first-typescript-library#readme",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
